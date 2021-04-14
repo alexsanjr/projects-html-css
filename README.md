@@ -1,5 +1,5 @@
 ## My projects done in courses
- - [x] ***Bikecraft** -* A web project complete, using `HTML`, `CSS` and `JavaScript` plugins with `Jquery`
+ - [x] ***Bikecraft** -* A complete web project, using `HTML`, `CSS` and `JavaScript` plugins with `Jquery`
 
  - [x] ***Brafe** -* Project using `Flexbox`
 
